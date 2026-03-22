@@ -56,7 +56,7 @@ java GameRunner
 ## Author
 
 Rafael Ollivierra  
-Computer Science and Management Undergraduate 
+Computer Science and Management Undergraduate. 
 Object-Oriented Programming
 
 
