@@ -38,11 +38,11 @@ A **terminal-based dungeon crawler** game implemented in Java. Explore rooms, ba
 
 ## How to Play
 
-Follow these steps to run and play the game:
+Follow these steps in terminal to run and play the game:
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/YourUsername/dungeon-crawler-java.git
+git clone https://github.com/RafaelOllivierra21/dungeon-crawler-java.git
 cd dungeon-crawler-java
 ```
 ### 2) Compile All Java Files
